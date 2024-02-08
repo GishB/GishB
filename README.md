@@ -3,6 +3,16 @@
 <h4 align="center"> Here you can find pinned projects which has been saved for future ideas which i would like to share with others.
 
 [![codewars](https://www.codewars.com/users/GishB/badges/large)](https://www.codewars.com/users/GishB)  
+
+
+- 🌱 I’m currently learning **Go and Data Engineering at Karpov.Courses**
+
+- 📫 How to reach me **SamofalovWORK@yandex.ru**
+
+- 📄 Know about my experiences [**Habr Career (Ru)**](https://career.habr.com/gishb)
+
+- 🌍 I speak Russian (native), English (B2) and French (A1)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GishB&layout=compact)](https://github.com/GishB/github-readme-stats)
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
