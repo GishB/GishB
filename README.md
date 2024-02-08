@@ -1,4 +1,9 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm <a href="[https://daniilshat.ru/](https://t.me/Aleksandr_Driller)" target="_blank">Aleksandr</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+
+[![codewars](https://www.codewars.com/users/GishB/badges/large)](https://www.codewars.com/users/GishB)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GishB&layout=compact)](https://github.com/GishB/github-readme-stats)
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <!--
 **GishB/GishB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
