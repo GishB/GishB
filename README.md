@@ -1,5 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="[https://daniilshat.ru/](https://t.me/Aleksandr_Driller)" target="_blank">Aleksandr</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h4 align="center"> Here you can find pinned projects which has been saved for future ideas which i would like to share with others.
 
 [![codewars](https://www.codewars.com/users/GishB/badges/large)](https://www.codewars.com/users/GishB)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GishB&layout=compact)](https://github.com/GishB/github-readme-stats)
