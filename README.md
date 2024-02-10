@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **Go and Data Engineering at Karpov.Courses**
 
-- 📫 How to reach me **SamofalovWORK@yandex.ru**
-
 - 📄 Know about my experiences [**Habr Career (Ru)**](https://career.habr.com/gishb)
 
 - 🌍 I speak Russian (native), English (B2) and French (A1)
@@ -16,7 +14,6 @@
 ### Languages:
 <p align="left"> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/python.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://www.markdownguide.org/basic-syntax/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/c74242689872258d4882fe938a6257c2da710353/icons/markdown-white.svg" alt="python" width="60" height="40"/> </a> 
 </p>
 
 ### Tools:
@@ -26,7 +23,10 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/git.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2583381c09497c680369e95dce7e029d93484d94/icons/PyCharm.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2583381c09497c680369e95dce7e029d93484d94/icons/Jupyter.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://hub.docker.com/" target="_blank" rel="noreferrer"> <img src="https://hub.docker.com/api/media/repos_logo/v1/library%2Fdocker" alt="git" width="40" height="40"/> </a>
 </p>
+
+### Random joke:
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
