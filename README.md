@@ -24,6 +24,7 @@
 <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2583381c09497c680369e95dce7e029d93484d94/icons/PyCharm.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2583381c09497c680369e95dce7e029d93484d94/icons/Jupyter.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://hub.docker.com/" target="_blank" rel="noreferrer"> <img src="https://hub.docker.com/api/media/repos_logo/v1/library%2Fdocker" alt="git" width="40" height="40"/> </a>
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="git" width="50" height="40"/> </a>
 </p>
 
 ### Random joke:
