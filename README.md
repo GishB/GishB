@@ -4,7 +4,7 @@
 [![codewars](https://www.codewars.com/users/GishB/badges/large)](https://www.codewars.com/users/GishB)  
 
 
-- 🌱 I’m currently learning **Data Engineering at Karpov.Courses**
+- 🌱 I’m currently working on **drilling cpd task** and **general algorithm refactoring**.
 
 - 📄 Know about my experiences [**Habr Career (Ru)**](https://career.habr.com/gishb)
 
