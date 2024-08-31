@@ -4,11 +4,11 @@
 [![codewars](https://www.codewars.com/users/GishB/badges/large)](https://www.codewars.com/users/GishB)  
 
 
-- 🌱 I’m currently working on **drilling cpd task** and **general algorithm refactoring**.
+- 🌱 I’m currently working on **Gold Fish**
 
 - 📄 Know about my experiences [**Habr Career (Ru)**](https://career.habr.com/gishb)
 
-- 🌍 I speak Russian (native), English (B2) and French (A1)
+- 🌍 I speak Russian and English
 
 
 ### Languages:
