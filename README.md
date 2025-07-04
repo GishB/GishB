@@ -2,9 +2,11 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 [![codewars](https://www.codewars.com/users/GishB/badges/large)](https://www.codewars.com/users/GishB)  
+[![GishB LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=GishB)](https://github.com/GishB/leetcode-stats)
 
 
-- 🌱 I’m currently working on **Gold Fish**
+
+- 🌱 I’m currently working on **ChatBots for daily tasks**
 
 - 📄 Know about my experiences [**Habr Career (Ru)**](https://career.habr.com/gishb)
 
