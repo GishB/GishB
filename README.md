@@ -2,7 +2,6 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 [![codewars](https://www.codewars.com/users/GishB/badges/large)](https://www.codewars.com/users/GishB)  
-[![GishB LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=GishB)](https://github.com/GishB/leetcode-stats)
 
 
 
@@ -28,6 +27,8 @@
 <a href="https://hub.docker.com/" target="_blank" rel="noreferrer"> <img src="https://hub.docker.com/api/media/repos_logo/v1/library%2Fdocker" alt="git" width="40" height="40"/> </a>
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="git" width="50" height="40"/> </a>
 </p>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=gishb&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 ### Random joke:
 
